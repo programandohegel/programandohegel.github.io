@@ -8,6 +8,15 @@ Implementación computacional de la *Fenomenología del espíritu*
 Este sitio documenta la construcción de la primera máquina hegeliana:  
 un sistema Python que ejecuta el movimiento de la conciencia.
 
+De la lógica aristotélica al álgebra de Boole, y de Hegel a Python
+La historia del pensamiento occidental se construyó sobre la lógica aristotélica: silogismos, premisas, conclusiones. Una lógica del "es" y "no es", del tercero excluido. Durante siglos, esa fue la herramienta para pensar el mundo.
+
+En el siglo XIX, George Boole dio un paso que parecía menor pero resultó gigantesco: redujo la lógica a operaciones algebraicas. Verdadero/falso se convirtieron en 1/0, y las proposiciones en ecuaciones. Así nació el álgebra de Boole, la base de todos los circuitos digitales.
+
+Lo curioso es que, en ese mismo siglo XIX, Hegel escribió la Ciencia de la lógica, una obra que describe el movimiento del pensamiento no como algo estático, sino como un proceso dinámico de contradicciones y superaciones. Una lógica que no excluye el tercero, sino que lo integra: la dialéctica.
+
+Y sin embargo, mientras el álgebra de Boole se volvió el lenguaje oculto de cada computadora, la lógica hegeliana quedó confinada a las bibliotecas de filosofía. Nadie se preguntó: ¿y si la dialéctica también pudiera ejecutarse?
+
 ---
 
 ## 🧠 Estado actual
